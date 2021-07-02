@@ -3,6 +3,4 @@ git test for training
 
 ## Project notes
 
-Hello 
-this is ahmed sameh
-this is second edition
+from the secong branch ahmed
